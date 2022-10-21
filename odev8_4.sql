@@ -1,0 +1,2 @@
+DELETE FROM test
+WHERE name ILIKE '%d';
